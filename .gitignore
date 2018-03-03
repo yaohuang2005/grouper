@@ -1,0 +1,7 @@
+/target/
+/.idea/
+/workspace/
+grouper.iml
+grouper.sh
+input_file
+*.jar
