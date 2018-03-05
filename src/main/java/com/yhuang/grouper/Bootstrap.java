@@ -41,7 +41,7 @@ public class Bootstrap {
             String fileName = args[0];
 
             // for test
-            fileName = "input_file";
+            // fileName = "input_file";
             starter.groupProcess(fileName);
 
         } catch (GrouperException ex) {
